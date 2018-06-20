@@ -1,3 +1,7 @@
+# 4.6.16 (2018-06-20)
+
+- updated skyux builder to 1.10.0 and skyux cli to 1.15.0
+
 # 4.6.15 (2017-12-13)
 
 - Added environment and legal entity data to analytics service tracking

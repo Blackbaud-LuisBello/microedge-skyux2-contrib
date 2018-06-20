@@ -1,6 +1,6 @@
 {
   "name": "microedge-skyux2-contrib",
-  "version": "4.6.15",
+  "version": "4.6.16",
   "description": "Holding place for Microedge SkyUX components that are yet contributed to the main SkyUX repo.",
   "homepage": "https://github.com/blackbaud/microedge-skyux2-contrib#readme",
   "main": "bundles/bundle.umd.js",
@@ -23,8 +23,8 @@
     "animate.css": "^3.5.2",
     "angular-l10n": "^3.4.1",
     "dragula": "3.7.2",
-    "font-awesome": "4.7.0",
-    "intl": "1.2.5",
+    "font-awesome": "^4.7.0",
+    "intl": "^1.2.5",
     "intl-locales-supported": "^1.0.0",
     "jquery": "^3.1.0",
     "little-loader": "^0.1.1",
@@ -38,8 +38,8 @@
   },
   "devDependencies": {
     "@blackbaud/skyux": "2.3.2",
-    "@blackbaud/skyux-builder": "1.7.1",
-    "@blackbaud/skyux-cli": "^1.0.0",
+    "@blackbaud/skyux-builder": "1.10.0",
+    "@blackbaud/skyux-cli": "^1.5.0",
     "@blackbaud/skyux-design-tokens": "0.0.8",
     "cpx": "1.5.0",
     "prismjs": "1.6.0"
